@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    padding:25%;
+    font-size:2rem;
+    font-family: "Roboto", sans-serif;
+}
+
+input,button{
+    font-size: inherit;
+}
+
+p {
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent:2em;
+    line-height:1.5;
+    font-weight:300;
+    font-style:italic;
+}
